@@ -1,0 +1,108 @@
+header{
+    background-color: #074469;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    justify-content: space-between;
+}
+
+nav a{
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+header h2{
+    margin-left: -800px;
+    padding: 10px;
+    color: white;
+}
+
+.barras img{
+    width: 30px;
+    height: 60px;
+}
+
+.imagen_central img{
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto_imagen{
+    color: white;
+    position: absolute;
+    text-align: center;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.texto_imagen h1{
+    width: 2000px;
+    font-weight: bold;
+    font-size: 70px;
+}
+
+.boton_imagen{
+    position: absolute;
+    text-align: center;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+.boton_imagen button{
+    background-color: #e5b300;
+    border-radius: 3px;
+}
+
+#boton_imagen{
+    color: white;
+}
+
+.portafolio{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.texto_portafolio{
+    padding-bottom: 30px;
+}
+
+.texto_portafolio h3{
+    font-size: 16px;
+    font-weight: bold;
+    color: #e5b300;
+}
+
+.container_login{
+    color: white;
+    padding: 60px;
+    margin-top: 40px;
+    background-color: #005e90;
+}
+
+.login{
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 100px;
+    padding: 50px;
+    background-color: white;
+    width: 400px;
+}
+
+.container_login button{
+    margin-top: 25px;
+}
+
+#formulario{
+    color: white;
+    background-color: #005e90;
+}
+.nuevoProyecto{
+    padding: 20px;
+    width: 100%;
+    background-color: #005e90;
+}
